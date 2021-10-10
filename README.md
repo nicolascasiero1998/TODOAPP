@@ -1,5 +1,10 @@
 # TODOAPP
-Simple TODOAPPLICATIONLIST
+Simple TODOAPPLICATIONLIST      
+Pre-requisites
+
+Docker      
+Maven       
+jdk 1.8 or plus     
     
 INSTALLATION    
 
@@ -22,5 +27,6 @@ Add new task tab is active by default. You can add new tasks or modify existing 
 Deleted task goes to trash box (Delete tab)
 
 Click delete icon delete permanently or
-Click restore restore deleted task.
+Click restore restore deleted task.     
 
+🅴🅽🅹🅾🆈 🆃🅷🅴 🅶🅰🅼🅴!
