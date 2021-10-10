@@ -1,0 +1,18 @@
+package com.casierni.todo.service;
+
+import java.util.List;
+
+import com.casierni.todo.entity.Task;
+
+public interface TaskService {
+	
+	Task saveTask(Task Task);
+	
+	Task getTaskById(Long id);
+	
+	Task updateTask(Task Task);
+	
+	void deleteTaskById(Long id);
+	
+	List<Task> getAllTasksForUser(Long userid);
+}
